@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Halaman About</h1>
-    <h2>Owner :  </h2>
+    <h2>Owner : {{ $nama }} </h2>
 
     <br>
      
